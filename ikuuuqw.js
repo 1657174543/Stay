@@ -186,7 +186,7 @@
 
             box-shadow: 0 4px 20px rgba(0,0,0,0.15) !important;
 
-            z-index: 9998 !important;
+            z-index: 99998 !important;
 
             max-height: 200px !important;
 
